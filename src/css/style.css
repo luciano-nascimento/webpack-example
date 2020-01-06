@@ -1,0 +1,26 @@
+body {
+    background-color: #EEE;
+}
+
+.botao-um {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    border: 0px;
+    padding: 20px;
+}
+
+.galeria, .flip {
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.galeria {
+    background-image: url('../images/spitfire.png');
+}
+
+.flip {
+    background-image: url('../images/horse.png');
+}
